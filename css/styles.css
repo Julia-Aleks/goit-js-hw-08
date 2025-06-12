@@ -7,14 +7,14 @@
   margin: 0;
   justify-content: center;
 }
-/* <li */
+
 .gallery-item {
   flex-basis: calc((100% - 48px) / 3);
 }
-/* <a  */
+
 .gallery-link {
 }
-/* <img */
+
 .gallery-image {
   display: block;
   width: 100%;
